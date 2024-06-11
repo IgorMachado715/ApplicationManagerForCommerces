@@ -1,4 +1,4 @@
-# PLATFORMER GAME DEVELOPED IN LUA USING LOVE2D
+# APPLICATION MANAGER FOR COMMERCES.
 Application under development for managing customers, sales, products and displaying revenues, expenses and monthly sales graphs and reports.
 
 Developed with JS, NodeJS, ReactJS, Bcrypt, AES, sequelize, MySql Workbench, express, axios, morgan, nodemon and others.
